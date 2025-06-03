@@ -1,6 +1,6 @@
 # Experiment 1: Decentralized Certificate Verification
-# Name:PRADEEP S
-# Reg No:212222100034
+# Name:S SHANMATHI
+# Reg No:212222100049
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
